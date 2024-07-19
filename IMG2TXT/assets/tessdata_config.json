@@ -1,0 +1,10 @@
+{
+    "files": [
+      "eng.traineddata",
+      "jpn_vert.traineddata",
+      "jpn.traineddata",
+      "kor_vert.traineddata",
+      "kor.traineddata",
+      "ara.traineddata"
+    ]
+  }

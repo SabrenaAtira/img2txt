@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304024538106",
+    "project_id": "translatify-6dd5f",
+    "storage_bucket": "translatify-6dd5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304024538106:android:a868c62f0ad3cac0757243",
+        "android_client_info": {
+          "package_name": "com.example.translatify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwujaaXUHLnxt0LQVkoI88I2UsZEBLRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
